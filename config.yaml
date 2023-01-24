@@ -1,0 +1,5 @@
+port: ":3000"
+senders:
+  "test@test.com": true
+receivers:
+  "test.receiver@test.com": "http://webhook"
