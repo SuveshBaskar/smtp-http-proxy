@@ -1,2 +1,2 @@
-# smtp-http-proxy-
+# smtp-http-proxy
 SMTP to HTTP Proxy Server
